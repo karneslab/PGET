@@ -1,2 +1,2 @@
 # PGET
-Pharmacogenomic Education Testing Manuscript 
+Personal Genomic Education Testing Manuscript 
